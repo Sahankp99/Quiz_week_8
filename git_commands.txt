@@ -1,0 +1,5 @@
+git clone git clone https://github.com/Sahankp99/Quiz_week_8.git
+cd Quiz_week_8
+git commit -m "Added files and script to load data from CSV and plot graphs and logging of github commands"
+git push origin master
+git log > git_log.txt
